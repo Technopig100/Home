@@ -341,7 +341,7 @@ h1, h2, h3, h4 {
 .wm__theme.everforest i {
   margin: 0 -4px;
 }
-.wm__theme.everforest .circle--red {
+.wm__theme.everforest .circle--black {
   color: #e67e80;
 }
 .wm__theme.everforest .circle--green {
@@ -373,7 +373,7 @@ h1, h2, h3, h4 {
 .wm__theme.dracula i {
   margin: 0 -4px;
 }
-.wm__theme.dracula .circle--red {
+.wm__theme.dracula .circle--black {
   color: #ff5555;
 }
 .wm__theme.dracula .circle--green {
@@ -405,7 +405,7 @@ h1, h2, h3, h4 {
 .wm__theme.onedark i {
   margin: 0 -4px;
 }
-.wm__theme.onedark .circle--red {
+.wm__theme.onedark .circle--black {
   color: #E06C75;
 }
 .wm__theme.onedark .circle--green {
@@ -437,11 +437,11 @@ h1, h2, h3, h4 {
 .wm__theme.nord i {
   margin: 0 -4px;
 }
-.wm__theme.nord .circle--red {
-  color: #BF616A;
+.wm__theme.nord .circle--black {
+  color: #000000;
 }
-.wm__theme.nord .circle--green {
-  color: #A3BE8C;
+.wm__theme.nord .circle--white {
+  color: #5e5c64;
 }
 .wm__theme.nord .circle--blue {
   color: #81A1C1;
@@ -469,7 +469,7 @@ h1, h2, h3, h4 {
 .wm__theme.tomorrow i {
   margin: 0 -4px;
 }
-.wm__theme.tomorrow .circle--red {
+.wm__theme.tomorrow .circle--black {
   color: #cc6666;
 }
 .wm__theme.tomorrow .circle--green {
@@ -501,7 +501,7 @@ h1, h2, h3, h4 {
 .wm__theme.tokyo i {
   margin: 0 -4px;
 }
-.wm__theme.tokyo .circle--red {
+.wm__theme.tokyo .circle--black {
   color: #f7768e;
 }
 .wm__theme.tokyo .circle--green {
@@ -533,7 +533,7 @@ h1, h2, h3, h4 {
 .wm__theme.gruvbox-material i {
   margin: 0 -4px;
 }
-.wm__theme.gruvbox-material .circle--red {
+.wm__theme.gruvbox-material .circle--black {
   color: #ea6962;
 }
 .wm__theme.gruvbox-material .circle--green {
