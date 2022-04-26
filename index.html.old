@@ -29,8 +29,10 @@
             <div class="header__nav__btn">
               <i class="fas fa-bars"></i>
             </div>
-
+          
             <ul class="header__nav__links">
+              <a href="https://wiki.archlinux.org/"><img src="./assets/img/Archlinux.png" alt="Arch Linux"></a>
+              <a href="https://www.youtube.com/"><img src="./assets/img/YouTube.png" alt="YouTube"></a>
               <li><a href="#" class="header__nav--active">Home</a></li>
               <li><a href="https://github.com/Technopig100">GitHub</a></li>
               <li class="download"><a href="https://my.opendesktop.org/s/9Wz8B4ekAZxqXdm">Download</a></li>
