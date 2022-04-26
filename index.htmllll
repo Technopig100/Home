@@ -66,7 +66,7 @@
           <div class="features__header">
             <h2>What is ADK-Linux?</h2>
              <h3 class="feature__body">
-                An Arch Linux Based Distro with a Plasma Desktop.
+                An Arch Linux Based Distro with a Plasma Desktop Environment and Development Software.
               </h3>
           </div>
 
@@ -74,7 +74,7 @@
 
             <div class="feature">
               <div class="feature__icon">
-                <i class="fas fa-desktop"></i>
+                <i class="far fa-window-restore"></i>
               </div>
               <h3 class="feature__header">
                 Plasma Desktop
@@ -86,13 +86,13 @@
 
             <div class="feature">
               <div class="feature__icon">
-                <i class="fa fa-hdd-o"></i>
+                <i class="fas fa-desktop"></i>
               </div>
               <h3 class="feature__header">
-                BTRFS Filesystem
+                Development Software
               </h3>
               <div class="feature__body">
-                Btrfs is a modern copy on write (CoW) filesystem for Linux aimed at implementing advanced features while also focusing on fault tolerance, repair and easy administration.
+                Developers and businesses are continually searching for solutions to make life easier as software development gains momentum and popularity throughout the market. The appropriate tools can help you get the most out of every day swiftly.
               </div>
             </div>
 

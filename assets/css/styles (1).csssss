@@ -213,7 +213,7 @@ h1, h2, h3, h4 {
 .features .feature h3 {
   margin: 12px 0;
 }
-.features .feature__icon .fa, .features .feature__icon .fas, .features .feature__icon .far {
+.features .feature__icon .fab, .features .feature__icon .fas, .features .feature__icon .far {
   color: #3584e4;
   font-size: 80px;
 }
