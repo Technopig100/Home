@@ -301,7 +301,7 @@ h1, h2, h3, h4 {
   min-width: 200px;
 }
 
-.wm__theme.nord {
+.wm__theme.aritim-dark {
   margin-top: auto;
   display: flex;
   font-family: "Roboto Mono", monospace;
@@ -313,23 +313,23 @@ h1, h2, h3, h4 {
   background-color: #2E3440;
   color: #D8DEE9;
 }
-.wm__theme.nord .wm__theme__circles {
+.wm__theme.aritim-dark .wm__theme__circles {
   margin-right: 11px;
   margin-left: 4px;
 }
-.wm__theme.nord .wm__theme__name {
+.wm__theme.aritim-dark .wm__theme__name {
   user-select: text;
 }
-.wm__theme.nord i {
+.wm__theme.aritim-dark i {
   margin: 0 -4px;
 }
-.wm__theme.nord .circle--black {
+.wm__theme.aritim-dark .circle--black {
   color: #000000;
 }
-.wm__theme.nord .circle--white {
+.wm__theme.aritim-dark .circle--white {
   color: #5e5c64;
 }
-.wm__theme.nord .circle--blue {
+.wm__theme.aritim-dark .circle--blue {
   color: #81A1C1;
 }
 
